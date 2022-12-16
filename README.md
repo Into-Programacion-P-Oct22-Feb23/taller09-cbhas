@@ -3,6 +3,8 @@
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
 
+Fernando Muñoz - Sebastián Calderón
+
 ### Ejercicio 1
 Analizar el ejercicio, identificar la problemática.
 

@@ -13,13 +13,13 @@ public class Ayuda01 {
 
     public static void main(String[] args) {
         String provincia = "Loja";
-        
-        char inicial = provincia.charAt(0);
+
+        char inicial = provincia.charAt(3);
         System.out.printf("La inicial es %s, pero en tipo char\n", inicial);
-        
+
         String inicialDos = String.valueOf(inicial); // paso el char a String
         System.out.printf("La inicial es %s, pero en tipo String\n", inicialDos);
-        
+
         System.out.println(inicialDos.equals("L"));
     }
 }
